@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Dece-Filez is a decentralized P2P file storage system using IPFS and Blockchain. 
+
 ## Available Scripts
 
 In the project directory, you can run:
